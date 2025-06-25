@@ -8,7 +8,7 @@ Summary
 - The angular spectrum method simulates light propagation to match optical PSFs with targets.
 - The loss function minimizes RMS errors across RGB channels using the Adam optimizer.
 Included
-- main.ipynb: Complete pipeline for metasurface simulation and optimization.
+- TF_for_PSF_Engineering_CIFAR.ipynb: Complete pipeline for metasurface simulation and optimization.
 Requirements
 - Google Colab
 - TensorFlow
